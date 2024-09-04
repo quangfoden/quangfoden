@@ -3,7 +3,11 @@
 Tôi là một lập trình viên web với nhiều kinh nghiệm trong việc phát triển các ứng dụng web sử dụng **Laravel** và **Vue.js**. Tôi đam mê công nghệ và luôn cập nhật các xu hướng mới nhất trong lĩnh vực phát triển web.
 
 ## 💻 Tech Stack
-
+### Programming Languages
+- ** PHP
+- ** JAVA
+- ** PYTHON
+- ** JAVASCRIPT
 ### Web Development
 - **Backend:** Laravel
 - **Frontend:** Vue.js, HTML, CSS (Bootstrap)
