@@ -1,12 +1,20 @@
 # 👋 Xin chào! Tôi là Quang
 
-Tôi là một lập trình viên web có kinh nghiệm trong việc phát triển các ứng dụng web sử dụng Laravel và Vue.js. Tôi đam mê công nghệ và luôn cập nhật các xu hướng mới nhất trong lĩnh vực phát triển web.
+Tôi là một lập trình viên web với nhiều kinh nghiệm trong việc phát triển các ứng dụng web sử dụng **Laravel** và **Vue.js**. Tôi đam mê công nghệ và luôn cập nhật các xu hướng mới nhất trong lĩnh vực phát triển web.
 
-💻 Tech Stack
-Web Development
-Backend:Laravel
-Frontend: Vue.js, HTML, CSS (Bootstrap)
-JavaScript: Vue.js, React, jQuery
+## 💻 Tech Stack
+
+### Web Development
+- **Backend:** Laravel
+- **Frontend:** Vue.js, HTML, CSS (Bootstrap)
+- **JavaScript:** Vue.js, React, jQuery
 
 ## 🌱 Học Hỏi và Phát Triển
-Tôi luôn tìm cách nâng cao kỹ năng của mình và đang không ngừng học hỏi về các công nghệ và framework mới để ứng dụng vào công việc của mình.
+Tôi luôn tìm cách nâng cao kỹ năng và không ngừng học hỏi các công nghệ và framework mới để áp dụng vào công việc của mình.
+
+---
+
+📫 **Liên hệ với tôi:**
+- **Email:** nguyenvanquang22103@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/quang-nguyen-van-3345ba297/
+- **Facebook:** https://www.facebook.com/profile.php?id=100064992711964
