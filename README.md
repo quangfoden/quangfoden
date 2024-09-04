@@ -4,10 +4,10 @@ Tôi là một lập trình viên web với nhiều kinh nghiệm trong việc p
 
 ## 💻 Tech Stack
 ### Programming Languages
-- ** PHP
-- ** JAVA
-- ** PYTHON
-- ** JAVASCRIPT
+- **PHP**
+- **JAVA**
+- **PYTHON**
+- **JAVASCRIPT**
 ### Web Development
 - **Backend:** Laravel
 - **Frontend:** Vue.js, HTML, CSS (Bootstrap)
