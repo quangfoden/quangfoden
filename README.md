@@ -1,5 +1,6 @@
 # 👋 Xin chào! Tôi là Quang
 ![Quang's Avatar](https://avatars.githubusercontent.com/u/123524896?v=4)
+
 Tôi là một lập trình viên web với nhiều kinh nghiệm trong việc phát triển các ứng dụng web sử dụng **Laravel** và **Vue.js**. Tôi đam mê công nghệ và luôn cập nhật các xu hướng mới nhất trong lĩnh vực phát triển web.
 
 ## 💻 Tech Stack
