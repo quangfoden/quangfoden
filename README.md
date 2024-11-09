@@ -1,5 +1,5 @@
 # 👋 Hi! I’m Quang
-![Quang's Avatar](https://firebasestorage.googleapis.com/v0/b/mangxahoi-b7499.appspot.com/o/WIN_20240814_06_13_17_Pro.jpg?alt=media&token=ce5a6f38-87a5-49e2-8d7b-d3daa32071e3)
+![Quang's Avatar](https://firebasestorage.googleapis.com/v0/b/mangxahoi-b7499.appspot.com/o/298999286_435648895278197_3801208522221551624_n.jpg?alt=media&token=c6cef0f5-91b6-4986-8bcf-d845a96c88ed)
 
 I am a web developer with extensive experience in building web applications using Laravel and Vue.js. I am passionate about technology and always stay updated with the latest trends in web development.
 
